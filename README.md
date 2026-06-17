@@ -21,7 +21,7 @@ A real-time Next.js 14 application providing an interactive interface to monitor
 ### Installation
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/MilindJain03/Alchemyst-ai_hiring_assignment.git
 cd June-2026FullStackAI
 
 # Install dependencies
