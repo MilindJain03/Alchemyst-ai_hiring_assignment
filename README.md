@@ -134,5 +134,8 @@ Screenshot C: The Context Inspector Diff
 
 ![alt text](docs/images/image-2.png)
 
-## Demo Video
-[Watch / Download Demo Video]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/11X-4wh_mURpwWFIPSUPqg8unFgD7BnUX/view?usp=drive_link))
+##  Demo Video
+
+Click the image below to watch the full demo:
+
+[![Demo Video](docs/images/image.png)](https://drive.google.com/file/d/11X-4wh_mURpwWFIPSUPqg8unFgD7BnUX/view?usp=drive_link)
